@@ -1,0 +1,14 @@
+.alert {
+    padding: 5px 10px;
+}
+.alert p {
+    margin: 0;
+}
+.alert-danger {
+    color: 9e0413;
+    background-color: rgba(248, 215, 218, 0.4);
+    font-size: 14px;
+}
+.alert-success {
+    margin: 15px;
+}

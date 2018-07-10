@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+form {
+    padding-top: 20px;
+}
+.details {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 5px;
+}
+ol > li {
+    background-color: #fff;
+    padding: 10px;
+    border-bottom: 5px solid #eee;
+}
+ol > li ol > li {
+    border-bottom: 0;
+    padding: 0;
+}
+.invalid-feedback {
+    color: red;
+}
+.invalid-feedback.process {
+    color: orange;
+}
+.valid-feedback {
+    color: green;
+}
+.pdt-25 {
+    padding-top: 25px;
+}
+em {
+    background-color: azure;
+    color: tomato;
+    font-style: normal;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 3px;
+    display: inline-block;
+}
+.btn.btn-sm {
+    font-size: 12px;
+    margin-right: 5px;
+}

@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 2,
+      "firstname": "Tom",
+      "lastname": "Halt",
+      "email": "tom@mail.com",
+      "phone": "5050656585",
+      "status": "active"
+    },
+    {
+      "firstname": "Mary",
+      "lastname": "Jones",
+      "email": "mary@mail.com",
+      "phone": "8787787840",
+      "status": "inactive",
+      "id": 3
+    },
+    {
+      "firstname": "Peter",
+      "lastname": "Parker",
+      "email": "pet@mail.com",
+      "phone": "8080808080",
+      "status": "active",
+      "id": 4
+    }
+  ]
+}
